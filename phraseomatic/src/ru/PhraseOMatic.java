@@ -1,8 +1,8 @@
- package src.ru;
+package ru.phraseomatic;
 
 public class PhraseOMatic {
+	
 	public static void main(String[] args) {
-		
 		String[] wordListOne = {"круглосуточный", "взаимный", "умный", "сфокусированный", "динамичный", "выровненный"};
 		
 		String[] wordListTwo = {"уполномоченный", "трудный", "чистый продукт", "ориентированный", "центральный", "распределенный", "фирменный", "сетевой", "общий"};
